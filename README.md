@@ -38,6 +38,6 @@
 System.writeLine();
 ```
 
-:smirk;
+:smile;
 :joy;
 :rage;
