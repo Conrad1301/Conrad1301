@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=최강%20자바개발자&fontSize=90)
+# Hi there, I'm glad meet you 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=준비된%20개발자&fontSize=90)
 
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=Conrad1301)](https://github.com/Conrad1301)
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=Conrad1301&show_icons=true&theme=tokyonight)](https://github.com/Conrad1301)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Conrad1301)](https://github.com/Conrad1301/github-readme-stats)
 
@@ -13,7 +14,7 @@
 ![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=magenta)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
 
-# Hi there 👋
+
 ## Hi there 👋
 ### Hi there 👋
 #### Hi there 👋
