@@ -31,13 +31,13 @@
 - 1번
 - 2번
 
-`
+
 [네이버가자](http://www.naver.com)
 
 ```
 System.writeLine();
 ```
 
-:smile;
-:joy;
-:rage;
+:smirk:
+:joy:
+:rage:
